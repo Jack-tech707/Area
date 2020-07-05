@@ -1,2 +1,2 @@
 # Area
-Area of a triandle
+Area of a triangle
